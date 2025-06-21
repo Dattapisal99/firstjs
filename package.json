@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "git": "^0.1.5"
+  }
+}
